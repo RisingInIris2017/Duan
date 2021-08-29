@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "examplemod的资源包",
+        "pack_format": 6,
+        "_comment": "Pack Format V6 需要Json Lang文件和一些来自1.16.2的材质变化。注意：我们要求所有模组的Pack Format为V6。详情请看Minecraft Wiki获取更多说明。"
+    }
+}
