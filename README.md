@@ -1,7 +1,7 @@
 <div align=center><img width = '295' height ='240' src ="https://user-images.githubusercontent.com/28519848/132981471-f26d9fa8-8cbd-49ff-ad4a-6ca006b49ea6.png"/></div>
 
 _________________________
-Languange: 中文 - English
+Languange: 中文 - [English](https://github.com/RisingInIris2017/Duan/blob/main/README_en.md)
 ## 项目简介
 **锻 - Minecraft Forge 中文文档计划**
 
